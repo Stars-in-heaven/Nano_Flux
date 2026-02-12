@@ -32,4 +32,26 @@ I am absolutely horrible with github, sorry if there is something wrong with thi
 
 ----------
 ## EXTRA NOTES :
-Apart from coding the firmware i'm an entire newbie to CAD, so this was definetely a learning experience. And <br>I definetely picked up a lot while working on this. <br>
+Apart from coding the firmware i'm an entire newbie to CAD, so this was
+<br> 
+definetely a learning experience. And I definetely picked up a lot while
+<br> 
+working on this, but that is the entire reason I began working on my hackpad.
+<br>
+Since I haven't had too much making my own hardware, just wiritng firmware.
+<br>
+But anyways, The main idea and goal for my hack-pad was to keep it as compact
+<br>
+and small as possible, while still remaining as functional and useful as possible,
+<br>
+which is why I added modes, while only having 4 keys (for shortcuts) with the 3
+<br>
+modes, and counting, you can have over 16 shortcuts all in one tiny macro pad.
+<br>
+the modes work best when they are for specific tasks, as they keep all the
+<br>
+specific shortcuts you need in one space. for example, I have one for coding,
+<br>
+writing notes at school and one for researching. But of course more modes can always
+<br>
+be added.
