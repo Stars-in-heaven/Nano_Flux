@@ -55,3 +55,6 @@ specific shortcuts you need in one space. for example, I have one for coding,
 writing notes at school and one for researching. But of course more modes can always
 <br>
 be added.
+
+
+<img src="https://i.postimg.cc/fyFvXfHK/IMG-1398.png" style="width: 200px; position: absolute; z-index: 1000; margin-left: 300px;">
